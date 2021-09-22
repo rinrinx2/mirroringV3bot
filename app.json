@@ -1,15 +1,15 @@
 {
-    "name": "Deepak Clouds Mirror",
+    "name": "mirroringV3bot",
     "description": "A Telegram bot for all your mirror needs",
-    "logo": "https://imagetot.com/images/2021/06/17/d7e86862ce2686f4c6c6596bfa72785d.jpg",
+    "logo": "https://telegra.ph/file/e365f2037343745578a2c.jpg",
     "keywords": [
       "bot",
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/deepakcloudsoffical/deepak-clouds-mirror",
-    "website": "https://github.com/blackdeep04/deepak-clouds-mirror",
-    "success_url": "https://t.me/cloudsmirror",
+    "repository": "https://github.com/RidhoNGPX/mirroringV3bot",
+    "website": "https://github.com/RidhoNGPX/mirroringV3bot",
+    "success_url": "https://t.me/OdierBambi",
     "stack": "container",
     "env": {
       "ENV": {
