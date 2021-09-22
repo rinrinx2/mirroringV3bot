@@ -222,8 +222,8 @@ BotCommand(f'{BotCommands.MediaInfoCommand}','Get detailed info about replied me
 BotCommand(f'{BotCommands.SpeedCommand}','Check Speed of the host'),
 BotCommand(f'{BotCommands.LogCommand}','Bot Log [owner/sudo only]'),
 BotCommand(f'{BotCommands.RestartCommand}','Restart bot [owner/sudo only]'),
-BotCommands(f'{BotCommands.UpdateCommand}','Update Bot from Upstream Repo [Owner Only]'),
-BotCommands(f'{BotCommands.UsageCommand}','To see Heroku Dyno Stats [Owner & Sudo only]')]
+BotCommand(f'{BotCommands.UpdateCommand}','Update Bot from Upstream Repo [Owner Only]'),
+BotCommand(f'{BotCommands.UsageCommand}','To see Heroku Dyno Stats [Owner & Sudo only]')]
 
 
 def main():
