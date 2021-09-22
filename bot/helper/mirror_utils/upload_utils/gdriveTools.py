@@ -166,7 +166,7 @@ class GoogleDriveHelper:
         # File body description
         file_metadata = {
             'name': file_name,
-            'description': 'Diunggah oleh Odier Mirror Bot,
+            'description': 'Diunggah oleh Odier Mirror Bot',
             'mimeType': mime_type,
         }
         try:
